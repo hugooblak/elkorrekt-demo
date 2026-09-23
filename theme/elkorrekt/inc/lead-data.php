@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Elkorrekt AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '010-200 81 00',
 	'telefon_tel'    => '+46102008100',
 	'ort'            => 'Trelleborg',
